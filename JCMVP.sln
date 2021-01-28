@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "WebResources", "WebResources.njsproj", "{50440AE3-E08E-424E-BEFB-4E512D8BCE28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50440AE3-E08E-424E-BEFB-4E512D8BCE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50440AE3-E08E-424E-BEFB-4E512D8BCE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50440AE3-E08E-424E-BEFB-4E512D8BCE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50440AE3-E08E-424E-BEFB-4E512D8BCE28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0B5BC86-6B17-443E-866D-C628CB04FE0D}
+	EndGlobalSection
+EndGlobal
